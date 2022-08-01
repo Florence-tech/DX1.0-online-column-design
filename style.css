@@ -1,0 +1,11 @@
+/* basic syntax  || CSS decalration */
+/* External, inline, Internal */
+/* Selector {property:value;} */
+/* Select: TAG, ID , CLASSES */
+
+
+h1 {
+    color: orange;
+    border: 1px solid black;
+    display: inline;
+}
